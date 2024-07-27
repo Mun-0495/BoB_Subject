@@ -5,14 +5,6 @@ plugins {
     id("io.spring.dependency-management") version "1.1.5"
 }
 
-bootJar {
-    enabled = false
-}
-
-jar {
-    enabled = true
-}
-
 group = "org.example"
 version = "1.0-SNAPSHOT"
 
