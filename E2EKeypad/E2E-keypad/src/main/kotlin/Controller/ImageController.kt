@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.RestController
 import org.springframework.util.Base64Utils
 import java.io.ByteArrayOutputStream
 
-
-
 @RestController
 @RequestMapping("/api")
 class ImageController {
