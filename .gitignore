@@ -14,6 +14,8 @@ nuclei/
 1st_week/
 JJAMTong/
 Network/pcap/libnet
-
+FileSystem/fat32
+FileSystem/gpt_128
+FileSystem/mbr_128
 .vscode/
 .vs/
