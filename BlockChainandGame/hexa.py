@@ -14,7 +14,6 @@ class Block:
     def init_position(self):
         self.position = {
             'x': 5,
-            'y': 2
         }
 
     def move_left(self):
