@@ -17,6 +17,8 @@ Network/pcap/libnet
 FileSystem/fat32
 FileSystem/gpt_128
 FileSystem/mbr_128
+OpenSourceandBugBounty/CVE/CVE-2024-4851/
+
 .vscode/
 .vs/
 
